@@ -1,5 +1,10 @@
+
 General Information
 -------------------
+
+This is a fork of the latest release of Wireshark with the ads stripped out.
+If you do not want Google ads embedded inside your Wireshark program then
+this is the fork for you. I Left everything else except for the ads intact.
 
 Wireshark is a network traffic analyzer, or "sniffer", for Linux, macOS,
 \*BSD and other Unix and Unix-like operating systems and for Windows.
@@ -21,6 +26,9 @@ The latest distribution can be found in the subdirectory https://www.wireshark.o
 
 Installation
 ------------
+
+To build from source just run the install.sh script. Windows users are on
+their own.
 
 The Wireshark project builds and tests regularly on the following platforms:
 
