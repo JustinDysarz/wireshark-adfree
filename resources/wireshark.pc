@@ -1,0 +1,15 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=/usr/local/lib
+includedir=/usr/local/include
+sharedlibdir=${libdir}
+plugindir=${libdir}/wireshark/plugins/4.6
+
+Name: Wireshark
+Description: Network Protocol Analyzer (Packet Dissection Library)
+Version: 4.6.6
+License: GPL-2.0-or-later
+
+Requires: glib-2.0, gmodule-2.0, gthread-2.0
+Libs: -L${libdir} -lwireshark -lwsutil
+Cflags: -I${includedir}/wireshark

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/json">
+        <file alias="slides.json">/home/neo/git/wireshark-adfree/resources/json/slides.json</file>
+        <file alias="learn_card.json">/home/neo/git/wireshark-adfree/resources/json/learn_card.json</file>
+        <file alias="banners/sharkfesteu.png">/home/neo/git/wireshark-adfree/resources/json/banners/sharkfesteu.png</file>
+        <file alias="banners/sharkfestus.png">/home/neo/git/wireshark-adfree/resources/json/banners/sharkfestus.png</file>
+        <file alias="banners/sharksbeingsharks.png">/home/neo/git/wireshark-adfree/resources/json/banners/sharksbeingsharks.png</file>
+        <file alias="banners/sharkscelebratingsharks.png">/home/neo/git/wireshark-adfree/resources/json/banners/sharkscelebratingsharks.png</file>
+        <file alias="banners/tipstricks.png">/home/neo/git/wireshark-adfree/resources/json/banners/tipstricks.png</file>
+    </qresource>
+</RCC>

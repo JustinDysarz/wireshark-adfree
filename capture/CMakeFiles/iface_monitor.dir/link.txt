@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc ../run/libiface_monitor.a CMakeFiles/iface_monitor.dir/iface_monitor.c.o CMakeFiles/iface_monitor.dir/ws80211_utils.c.o
+/usr/bin/llvm-ranlib ../run/libiface_monitor.a

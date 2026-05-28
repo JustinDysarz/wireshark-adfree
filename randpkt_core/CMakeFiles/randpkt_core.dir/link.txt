@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc ../run/librandpkt_core.a CMakeFiles/randpkt_core.dir/randpkt_core.c.o
+/usr/bin/llvm-ranlib ../run/librandpkt_core.a

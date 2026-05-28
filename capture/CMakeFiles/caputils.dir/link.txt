@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc ../run/libcaputils.a "CMakeFiles/caputils.dir/capture-pcap-util-unix.c.o" "CMakeFiles/caputils.dir/capture-pcap-util.c.o"
+/usr/bin/llvm-ranlib ../run/libcaputils.a

@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc ../../../run/liblrexlib.a CMakeFiles/lrexlib.dir/common.c.o CMakeFiles/lrexlib.dir/pcre2/lpcre2.c.o CMakeFiles/lrexlib.dir/pcre2/lpcre2_f.c.o
+/usr/bin/llvm-ranlib ../../../run/liblrexlib.a

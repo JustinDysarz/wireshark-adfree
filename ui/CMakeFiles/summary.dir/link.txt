@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc ../run/libsummary.a CMakeFiles/summary.dir/summary.c.o
+/usr/bin/llvm-ranlib ../run/libsummary.a
